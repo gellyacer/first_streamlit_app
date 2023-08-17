@@ -34,3 +34,5 @@ streamlit.dataframe(fruityvice_normalized)
 # Display the table on the page.
 
 streamlit.dataframe(fruits_to_show)
+
+import snowflake.connector
