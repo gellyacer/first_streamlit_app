@@ -51,7 +51,7 @@ except URLError as e:
 # output it in the screen as a table
 # streamlit.dataframe(fruityvice_normalized)
 
-streamlit.stop()
+# streamlit.stop()
 # Display the table on the page.
 
 #my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
